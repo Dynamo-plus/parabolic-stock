@@ -1,1 +1,1 @@
-# parabolic-stock-bot
+# parabolic-stock
